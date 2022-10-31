@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.CoreCompileInputs.cache
